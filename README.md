@@ -35,12 +35,13 @@
 ## Study Design: MechaCar vs Competition
 
 - What metric or metrics are you going to test?
-  - In order to determine if MechaCar performing better than the competition we can test metrics such as car price, fuel efficency, safety rating and carbon output
+  - To determine if MechaCar is performing better than the competition, we can test metrics such as car price, fuel efficiency, safety rating, and carbon output.
 
 - What is the null hypothesis or alternative hypothesis?
   - H0: There is NO statistical significant difference on defined metrics between MechaCar and competition.
   - Ha: The is statistical significant difference on defined metrics between MecharCar and competition.
 
 - What statistical test would you use to test the hypothesis? And why?
-
+  - I would use ANOVA testing as it is used to compare the means of a continuous variable across several groups. In our case, groups can be car classes or price range groups.
 - What data is needed to run the statistical test?
+  - We need the above data on test metrics from MechaCar and their competitors for accurate results. 
